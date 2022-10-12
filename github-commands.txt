@@ -1,0 +1,7 @@
+git add .
+git commit -m "msg"
+git push -u origin master
+
+git status  -> to see cwd
+git branch "new name"  -> create branch
+git checkout BranchName  -> swith to that branch
