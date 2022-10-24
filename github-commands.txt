@@ -1,7 +1,11 @@
+git init
 git add .
+(added in staging area to commit)
 git commit -m "msg"
 git push -u origin master
 
 git status  -> to see cwd
 git branch "new name"  -> create branch
 git checkout BranchName  -> swith to that branch
+
+git log --all --graph --> to see all branched visually
